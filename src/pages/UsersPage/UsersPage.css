@@ -1,0 +1,7 @@
+.usersPage {
+    background: powderblue;
+    display: flex;
+    padding-left: 20px;
+    align-items: center;
+    padding-bottom: 20px;
+}
